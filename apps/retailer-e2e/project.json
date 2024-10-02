@@ -1,0 +1,10 @@
+{
+  "name": "retailer-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/retailer-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["retailer"],
+  "// targets": "to see all targets run: nx show project retailer-e2e --web",
+  "targets": {}
+}
