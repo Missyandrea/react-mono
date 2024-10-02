@@ -1,14 +1,9 @@
-import styled from 'tailwind';
-
-const StyledProducts = styled.div`
-  color: pink;
-`;
 
 export function Products() {
   return (
-    <StyledProducts>
+    <div>
       <h1>Welcome to Products!</h1>
-    </StyledProducts>
+    </div>
   );
 }
 

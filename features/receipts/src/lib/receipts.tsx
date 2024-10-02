@@ -1,14 +1,9 @@
-import styled from 'tailwind';
-
-const StyledReceipts = styled.div`
-  color: pink;
-`;
 
 export function Receipts() {
   return (
-    <StyledReceipts>
+    <div>
       <h1>Welcome to Receipts!</h1>
-    </StyledReceipts>
+    </div>
   );
 }
 
