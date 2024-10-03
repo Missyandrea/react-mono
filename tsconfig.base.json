@@ -18,7 +18,7 @@
       "@react-monorepo/orders": ["features/orders/src/index.ts"],
       "@react-monorepo/products": ["features/products/src/index.ts"],
       "@react-monorepo/receipts": ["features/receipts/src/index.ts"],
-      "@react-monorepo/shared": ["features/shared/src/index.ts"],
+      "@react-monorepo/shared": ["features/shared/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

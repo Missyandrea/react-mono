@@ -1,9 +1,10 @@
-export const CustomDropdown =()=>{
-    return(
-        <div>
-            <h1>
-                Custom dropdown
-            </h1>
-        </div>
-    )
+
+export function CustomDropdown() {
+  return (
+    <div>
+      <h1>Welcome to CustomDropdown!</h1>
+    </div>
+  );
 }
+
+export default CustomDropdown;
